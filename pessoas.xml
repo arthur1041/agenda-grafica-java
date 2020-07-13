@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_231" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaJuridica">
+    <void property="cidade">
+     <string>Knowhere</string>
+    </void>
+    <void property="cnpj">
+     <string>77.777.777/0001-77</string>
+    </void>
+    <void property="endereco">
+     <string>Rua da Tristeza</string>
+    </void>
+    <void property="estado">
+     <string>Santa Catarina</string>
+    </void>
+    <void property="nome">
+     <string>Marquinhos</string>
+    </void>
+    <void property="nomeFantasia">
+     <string>Marq</string>
+    </void>
+    <void property="razaoSocial">
+     <string>none</string>
+    </void>
+    <void property="telefone">
+     <string>(80) 40028-9222</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaFisica">
+    <void property="cidade">
+     <string>Ali</string>
+    </void>
+    <void property="cpf">
+     <string>663.636.366-36</string>
+    </void>
+    <void property="endereco">
+     <string>Rua Amigável</string>
+    </void>
+    <void property="estado">
+     <string>Acre</string>
+    </void>
+    <void property="nome">
+     <string>Pedrinho</string>
+    </void>
+    <void property="telefone">
+     <string>(62) 62626-6262</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaJuridica">
+    <void property="cidade">
+     <string>La</string>
+    </void>
+    <void property="cnpj">
+     <string>88.888.888/0001-88</string>
+    </void>
+    <void property="endereco">
+     <string>Rua da Fidelidade</string>
+    </void>
+    <void property="estado">
+     <string>Paraná</string>
+    </void>
+    <void property="nome">
+     <string>Jó</string>
+    </void>
+    <void property="nomeFantasia">
+     <string>Jo</string>
+    </void>
+    <void property="razaoSocial">
+     <string>none</string>
+    </void>
+    <void property="telefone">
+     <string>(77) 77777-7777</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaJuridica">
+    <void property="cidade">
+     <string>Cidade tal</string>
+    </void>
+    <void property="cnpj">
+     <string>99.999.999/0001-99</string>
+    </void>
+    <void property="endereco">
+     <string>Rua tal</string>
+    </void>
+    <void property="estado">
+     <string>Acre</string>
+    </void>
+    <void property="nome">
+     <string>Ana</string>
+    </void>
+    <void property="nomeFantasia">
+     <string>Aninha</string>
+    </void>
+    <void property="razaoSocial">
+     <string>none</string>
+    </void>
+    <void property="telefone">
+     <string>(55) 55555-5555</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaFisica">
+    <void property="cidade">
+     <string>Cidade tal</string>
+    </void>
+    <void property="cpf">
+     <string>400.289.229-82</string>
+    </void>
+    <void property="endereco">
+     <string>Rua tal</string>
+    </void>
+    <void property="estado">
+     <string>Alagoas</string>
+    </void>
+    <void property="nome">
+     <string>Yudi</string>
+    </void>
+    <void property="telefone">
+     <string>(55) 55555-5555</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.edu.ifrn.peoo.modelo.PessoaJuridica">
+    <void property="cidade">
+     <string>Cidade Tal</string>
+    </void>
+    <void property="cnpj">
+     <string>66.666.666/0001-66</string>
+    </void>
+    <void property="endereco">
+     <string>Rua Tal</string>
+    </void>
+    <void property="estado">
+     <string>Acre</string>
+    </void>
+    <void property="nome">
+     <string>Marinha</string>
+    </void>
+    <void property="nomeFantasia">
+     <string>Maria</string>
+    </void>
+    <void property="razaoSocial">
+     <string>none</string>
+    </void>
+    <void property="telefone">
+     <string>(22) 22222-2222</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
